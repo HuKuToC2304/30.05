@@ -13,7 +13,7 @@ using namespace std;
 	}
 	cout<<"Min"<<' '<<min<<endl;
 	cout<<"Adres"<<' '<<&arr[count]; //берем адресс массива
-
+//comments
 }
 int main()
 {
